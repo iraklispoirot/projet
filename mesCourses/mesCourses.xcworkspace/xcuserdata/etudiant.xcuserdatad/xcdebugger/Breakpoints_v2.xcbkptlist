@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mesCourses/Session.swift"
+            timestampString = "530309353.522354"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Session"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mesCourses.Session.__deallocating_deinit"
+                  moduleName = "mesCourses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/etudiant/Desktop/projet/mesCourses/mesCourses/Session.swift"
+                  timestampString = "530459294.482808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mesCourses.Session.deinit"
+                  moduleName = "mesCourses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/etudiant/Desktop/projet/mesCourses/mesCourses/Session.swift"
+                  timestampString = "530459294.487998"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mesCourses.Session.init () -&gt; mesCourses.Session"
+                  moduleName = "mesCourses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/etudiant/Desktop/projet/mesCourses/mesCourses/Session.swift"
+                  timestampString = "530459294.492313"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mesCourses.Session.__allocating_init () -&gt; mesCourses.Session"
+                  moduleName = "mesCourses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/etudiant/Desktop/projet/mesCourses/mesCourses/Session.swift"
+                  timestampString = "530459294.496043"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
